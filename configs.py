@@ -1,5 +1,5 @@
 # Your Oanda API Key
-API_KEY = 'Bearer YOUR KEY HERE'
+API_KEY = 'Bearer YOUR_KEY_HERE'
 
 HEADERS = {
     'Content-Type': 'application/json',
